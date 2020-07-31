@@ -1,0 +1,38 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Global": {
+    "description": "Auto imported from components/_global/index.js"
+  },
+  "LazyGlobal": {
+    "description": "Auto imported from components/_global/index.js"
+  },
+  "BaseButton": {
+    "description": "Auto imported from components/buttons/_base-button.vue"
+  },
+  "LazyBaseButton": {
+    "description": "Auto imported from components/buttons/_base-button.vue"
+  },
+  "BaseInput": {
+    "description": "Auto imported from components/inputs/_base-input.vue"
+  },
+  "LazyBaseInput": {
+    "description": "Auto imported from components/inputs/_base-input.vue"
+  },
+  "BaseTextarea": {
+    "description": "Auto imported from components/inputs/_base-textarea.vue"
+  },
+  "LazyBaseTextarea": {
+    "description": "Auto imported from components/inputs/_base-textarea.vue"
+  },
+  "BaseUsers": {
+    "description": "Auto imported from components/modals/_base-users.vue"
+  },
+  "LazyBaseUsers": {
+    "description": "Auto imported from components/modals/_base-users.vue"
+  }
+}
